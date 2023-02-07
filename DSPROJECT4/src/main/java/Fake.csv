@@ -1,0 +1,402 @@
+Massachusetts Institute of Technology (MIT),BBA-BSCS-ACF,Massachusetts,United States,1
+Stanford University,BBA-BSCS-ACF,Stanford,United States,2
+Harvard University,BBA-Electrical- Mechanical,Massachusetts,United States,3
+California Institute of Technology (Caltech),BBA-BSCS-Electrical,California,United States,5
+University of Oxford,BBA-BSCS,Oxford,United Kingdom,4
+ETH Zurich (Swiss Federal Institute of Technology),BBA-BSCS-Electrical,Zurich,Switzerland,6
+University of Cambridge,BSCS-BSACF-BBA-BSSS,Cambridge,United Kingdom,7
+Imperial College London,LAW-BSECO-BSCS-BSAI,London,United Kingdom,9
+University of Chicago,BSCS-BSACF-BBA-BSSS,Chicago,United States,10
+UCL (University College London),LAW-BSECO-BSCS-BSAI,London,United Kingdom,8
+National University of Singapore (NUS),BBA-BSCS,Singapore City,Singapore,11
+Princeton University,BSCS-BEMECHANICAL-ELECTRICAL,New Jersey,United States,13
+Nanyang Technological University (NTU),BSCS-BSACF-BBA-ECO,Nanyang,Singapore,11
+Ecole Polytechnique F�d�rale de Lausanne (EPFL),MBBS-BDS,Lausanne,Switzerland,18
+Tsinghua University,MBBS-BDS,Beijing,China,16
+University of Pennsylvania,MBBS-BDS,Pennsylvania,United States,15
+Yale University,BBA-BSCS-ACF,Connecticut,United States,17
+Cornell University,BBA-BSCS-ACF,New York,United States,14
+Columbia University,BBA-Electrical- Mechanical,New York,United States,18
+University of Edinburgh,BBA-BSCS-Electrical,Edinburgh,United Kingdom,20
+University of Michigan-Ann Arbor,BBA-BSCS,Michigan,United States,21
+University of Hong Kong (HKU),BBA-BSCS-Electrical,Hong Kong,Hong Kong,25
+Peking University,BSCS-BSACF-BBA-BSSS,Beijing,China,22
+The University of Tokyo,LAW-BSECO-BSCS-BSAI,Tokyo,Japan,22
+Johns Hopkins University,BSCS-BSACF-BBA-BSSS,Maryland,United States,24
+University of Toronto,LAW-BSECO-BSCS-BSAI,Toronto,Canada,29
+The Hong Kong University of Science and Technology (HKUST),BBA-BSCS,Hong Kong,Hong Kong,32
+The University of Manchester,BSCS-BEMECHANICAL-ELECTRICAL,Manchester,United Kingdom,27
+Northwestern University,BSCS-BSACF-BBA-ECO,Illinois,United States,31
+University of California Berkeley (UCB),MBBS-BDS,California,United States,28
+Australian National University (ANU),MBBS-BDS,Canberra,Australia,29
+King's College London (KCL),MBBS-BDS,London,United Kingdom,33
+McGill University,BBA-BSCS-ACF,Quebec,Canada,35
+Fudan University,BBA-BSCS-ACF,Shanghai,China,40
+New York University (NYU),BBA-Electrical- Mechanical,New York,United States,39
+University of California Los Angeles (UCLA),BBA-BSCS-Electrical,California,United States,35
+Seoul National University (SNU),BBA-BSCS,Seoul,South Korea,37
+Kyoto University,BBA-BSCS-Electrical,Kyoto,Japan,33
+KAIST - Korea Advanced Institute of Science and Technology,BSCS-BSACF-BBA-BSSS,Daejeon,South Korea,41
+The University of Sydney,LAW-BSECO-BSCS-BSAI,Sydney,Australia,42
+The University of Melbourne,BSCS-BSACF-BBA-BSSS,Melbourne,Australia,38
+Duke University,LAW-BSECO-BSCS-BSAI,North Carolina,United States,25
+The Chinese University of Hong Kong (CUHK),BBA-BSCS,Hong Kong,China,46
+The University of New South Wales (UNSW),BSCS-BEMECHANICAL-ELECTRICAL,New South Wales,Australia,43
+University of British Columbia,BSCS-BSACF-BBA-ECO,Kelowna,Canada,51
+The University of Queensland (UQ),MBBS-BDS,Brisbane,Australia,47
+Shanghai Jiao Tong University,MBBS-BDS,Shanghai,China,60
+City University of Hong Kong,MBBS-BDS,Hong Kong,China,52
+London School of Economics and Political Science (LSE),BBA-BSCS-ACF,London,United Kingdom,44
+Technische Universit�t M�nchen,BBA-BSCS-ACF,Munich,Germany,55
+Carnegie Mellon University,BBA-Electrical- Mechanical,PittsBurg,United States,48
+Universit� PSL (Paris Sciences & Lettres),BBA-BSCS-Electrical,Paris,France,53
+Zhejiang University,BBA-BSCS,Hangzhou,China,54
+University of California San Diego (UCSD),BBA-BSCS-Electrical,California,United States,45
+Monash University,BSCS-BSACF-BBA-BSSS,Malbourne,Australia,58
+Tokyo Institute of Technology,LAW-BSECO-BSCS-BSAI,Tokyo,Japan,58
+Delft University of Technology,BSCS-BSACF-BBA-BSSS,Delft,Netherlands,50
+University of Bristol,LAW-BSECO-BSCS-BSAI,Bristol,United Kingdom,49
+Universiti Malaya (UM),BBA-BSCS,Kuala Lumpur,Malaysia,70
+Brown University,BSCS-BEMECHANICAL-ELECTRICAL,Providence,United States,57
+Ecole Polytechnique,BSCS-BSACF-BBA-ECO,Palaiseau,France,60
+University of Amsterdam,MBBS-BDS,Amsterdam,Netherlands,64
+The University of Warwick,MBBS-BDS,Conventry,United Kingdom,62
+Ludwig-Maximilians-Universit�t M�nchen,MBBS-BDS,Munich,Germany,63
+Ruprecht-Karls-Universit�t Heidelberg,BBA-BSCS-ACF,Heidelberg,Germany,66
+University of Wisconsin-Madison,BBA-BSCS-ACF,Wisconsin-Madison,United States,56
+National Taiwan University (NTU),BBA-Electrical- Mechanical,Teipei,Taiwan,69
+Universidad de Buenos Aires,BBA-BSCS-Electrical,Buenos Aires,Argentina,74
+Korea University,BBA-BSCS,Seoul,South Korea,83
+University of Zurich,BBA-BSCS-Electrical,Zurich,Switzerland,76
+University of Texas at Austin,BSCS-BSACF-BBA-BSSS,Austin,United States,65
+Osaka University,LAW-BSECO-BSCS-BSAI,Suita,Japan,71
+University of Washington,BSCS-BSACF-BBA-BSSS,Seattle,United States,68
+Lomonosov Moscow State University,LAW-BSECO-BSCS-BSAI,Moscow,Russia,84
+The Hong Kong Polytechnic University,BBA-BSCS,Hung Hom,Hong Kong,91
+University of Copenhagen,BSCS-BEMECHANICAL-ELECTRICAL,Copenhagen,Denmark,81
+Pohang University of Science and Technology (POSTECH),BSCS-BSACF-BBA-ECO,Pohang,South Korea,87
+University of Glasgow,MBBS-BDS,Glasgow,United Kingdom,67
+Tohoku University,MBBS-BDS,Sendai,Japan,82
+Georgia Institute of Technology (Georgia Tech),MBBS-BDS,Georgia,United States,72
+The University of Auckland,BBA-BSCS-ACF,Auckland,New Zealand,83
+University of Illinois at Urbana-Champaign,BBA-BSCS-ACF,Illinois,United States,75
+Sorbonne University,BBA-Electrical- Mechanical,Paris,France,77
+Katholieke Universiteit Leuven,BBA-BSCS-Electrical,Leuven,Belgium,80
+Yonsei University,BBA-BSCS,Seoule,South Korea,104
+Durham University,BBA-BSCS-Electrical,Durham,United Kingdom,78
+University of Birmingham,BSCS-BSACF-BBA-BSSS,Birmingham,United Kingdom,81
+Sungkyunkwan University,LAW-BSECO-BSCS-BSAI,Seoule,South Korea,95
+Rice University,BSCS-BSACF-BBA-BSSS,Houston,United States,85
+University of Southampton,LAW-BSECO-BSCS-BSAI,Southhampton,United Kingdom,97
+University of Leeds,BBA-BSCS,Leeds,United Kingdom,93
+The University of Western Australia (UWA),BSCS-BEMECHANICAL-ELECTRICAL,Perth,Australia,86
+The University of Sheffield,BSCS-BSACF-BBA-ECO,Sheffield,United Kingdom,78
+University of Science and Technology of China,MBBS-BDS,Hefei,China,89
+University of North Carolina Chapel Hill,MBBS-BDS,Chapel Hill,United States,90
+University of St Andrews,MBBS-BDS,St Andrews,United Kingdom,100
+Lund University,BBA-BSCS-ACF,Lund,Sweden,92
+KTH Royal Institute of Technology,BBA-BSCS-ACF,Stockholm,Sweden,98
+The University of Nottingham,BBA-Electrical- Mechanical,Nottingham,United Kingdom,96
+Universidad Nacional Aut�noma de M�xico (UNAM),BBA-BSCS-Electrical,Mexico City,Mexico,103
+Pennsylvania State University,BBA-BSCS,Pennsylvania,United States,93
+Trinity College Dublin (TCD),BBA-BSCS-Electrical,Dublin,Ireland,108
+Technical University of Denmark,BSCS-BSACF-BBA-BSSS,Copenhagen,Denmark,112
+University of Helsinki,LAW-BSECO-BSCS-BSAI,Helsinki,Finland,107
+Washington University in St. Louis,BSCS-BSACF-BBA-BSSS,St. Louis,United States,108
+The University of Adelaide,LAW-BSECO-BSCS-BSAI,Adelaide,Australia,106
+University of Geneva,BBA-BSCS,Geneva,Switzerland,110
+Ohio State University,BSCS-BEMECHANICAL-ELECTRICAL,Ohio,United States,101
+Purdue University,BSCS-BSACF-BBA-ECO,Purdue,United States,111
+Boston University,MBBS-BDS,Boston,United States,98
+Nagoya University,MBBS-BDS,Aichi,Japan,115
+University of California Davis (UCD),MBBS-BDS,California,United States,104
+University of Oslo,BBA-BSCS-ACF,Oslo,Norway,119
+Queen Mary University of London (QMUL),BBA-BSCS-ACF,London,United Kingdom,126
+University of Bern,BBA-Electrical- Mechanical,Bern,Switzerland,123
+Universidade de S�o Paulo (USP),BBA-BSCS-Electrical,S�o Paulo,Brazil,116
+Wageningen University,BBA-BSCS,Gelderland,Netherlands,125
+Humboldt-Universit�t zu Berlin,BBA-BSCS-Electrical,Berlin,Germany,120
+Universit� de Montr�al,BSCS-BSACF-BBA-BSSS,Montr�al,Canada,137
+University of Alberta,LAW-BSECO-BSCS-BSAI,Alberta,Canada,113
+Eindhoven University of Technology,BSCS-BSACF-BBA-BSSS,Eindhoven,Netherlands,102
+Pontificia Universidad Cat�lica de Chile,LAW-BSECO-BSCS-BSAI,Santiago,Chile,127
+University of Southern California,BBA-BSCS,California,United States,129
+Utrecht University,BSCS-BEMECHANICAL-ELECTRICAL,Utrecht,Netherlands,120
+Kyushu University,BSCS-BSACF-BBA-ECO,Kyushu,Japan,132
+Nanjing University,MBBS-BDS,Nanjing,China,120
+Uppsala University,MBBS-BDS,Uppsala,Sweden,116
+Aalto University,MBBS-BDS,Aalto,Finland,134
+Leiden University,BBA-BSCS-ACF,Leiden,Netherlands,118
+University of Groningen,BBA-BSCS-ACF,Groningen,Netherlands,114
+Freie Universit�t Berlin,BBA-Electrical- Mechanical,Berlin,Germany,130
+KIT Karlsruher Institut f�r Technologie,BBA-BSCS-Electrical,Baden-W�rttemberg,Germany,124
+Universiti Putra Malaysia (UPM),BBA-BSCS,Selangor,Malaysia,159
+University of Technology Sydney (UTS),BBA-BSCS-Electrical,Sydney,Australia,140
+Lancaster University,BSCS-BSACF-BBA-BSSS,Lancaster,United Kingdom,128
+University of Ghent,LAW-BSECO-BSCS-BSAI,Ghent,Belgium,130
+Politecnico di Milano,BSCS-BSACF-BBA-BSSS,Milan,Italy,149
+CentraleSup�lec,LAW-BSECO-BSCS-BSAI,Gif-sur-Yvette,France,139
+Chalmers University of Technology,BBA-BSCS,Gothenburg,Sweden,125
+Hokkaido University,BSCS-BEMECHANICAL-ELECTRICAL,Hokkaido,Japan,132
+Universiti Kebangsaan Malaysia (UKM),BSCS-BSACF-BBA-ECO,Selangor,Malaysia,160
+Universiti Sains Malaysia (USM),MBBS-BDS,Penang,Malaysia,165
+King Abdul Aziz University (KAU),MBBS-BDS,Jeddah,Saudi Arabia,186
+McMaster University,MBBS-BDS,Ontario,Canada,140
+Rheinisch-Westf�lische Technische Hochschule Aachen,BBA-BSCS-ACF,North Rhine-Westphalia,Germany,138
+Hanyang University,BBA-BSCS-ACF,Seoul,South Korea,150
+Aarhus University,BBA-Electrical- Mechanical,Aarhus,Denmark,145
+Technische Universit�t Berlin,BBA-BSCS-Electrical,Berlin,Germany,147
+University of Basel,BBA-BSCS,Basel,Switzerland,151
+Universit�t Wien,BBA-BSCS-Electrical,Vienna,Austria,154
+University of York,BSCS-BSACF-BBA-BSSS,York,United Kingdom,148
+Newcastle University,LAW-BSECO-BSCS-BSAI,Newcastle,United Kingdom,146
+University of California Santa Barbara (UCSB),BSCS-BSACF-BBA-BSSS,California,United States,135
+University of Maryland College Park,LAW-BSECO-BSCS-BSAI,Maryland,United States,136
+Tecnol�gico de Monterrey (ITESM),BBA-BSCS,Monterry,Mexico,158
+University of Pittsburgh,BSCS-BEMECHANICAL-ELECTRICAL,Pittsburgh,United States,140
+Michigan State University,BSCS-BSACF-BBA-ECO,Michigan,United States,144
+Emory University,MBBS-BDS,Georgia,United States,156
+Cardiff University,MBBS-BDS,Wales,United Kingdom,154
+Universit� di Bologna (UNIBO),MBBS-BDS,Bologna,Italy,177
+Ecole Normale Sup�rieure de Lyon,BBA-BSCS-ACF,Lyon,France,160
+Case Western Reserve University,BBA-BSCS-ACF,Ohio,United States,167
+University of Florida,BBA-Electrical- Mechanical,Gainesville,United States,167
+University of Exeter,BBA-BSCS-Electrical,Devon,United Kingdom,163
+Al-Farabi Kazakh National University,BBA-BSCS,Almaty,Kazakhstan,207
+University of Rochester,BBA-BSCS-Electrical,New York,United States,170
+University of Waterloo,BSCS-BSACF-BBA-BSSS,Waterloo,Canada,173
+National Tsing Hua University,LAW-BSECO-BSCS-BSAI,Beijing,Taiwan,173
+Texas A&M University,BSCS-BSACF-BBA-BSSS,Texas,United States,189
+University of Lausanne,LAW-BSECO-BSCS-BSAI,Lausanne,Switzerland,153
+Sapienza - Universit� di Roma,BBA-BSCS,Rome,Italy,203
+Indian Institute of Technology Bombay (IITB),BSCS-BEMECHANICAL-ELECTRICAL,Mumbai,India,152
+Technische Universit�t Dresden,BSCS-BSACF-BBA-ECO,Dresden,Germany,179
+University of Bath,MBBS-BDS,Bath,United Kingdom,172
+Eberhard Karls Universit�t T�bingen,MBBS-BDS,Tubingen,Germany,169
+Universit�t Freiburg,MBBS-BDS,Frieburg,Germany,169
+Hebrew University of Jerusalem,BBA-BSCS-ACF,Jerusalem,Israel,162
+University College Dublin (UCD),BBA-BSCS-ACF,Dublin,Ireland,185
+University of Minnesota Twin Cities,BBA-Electrical- Mechanical,Minnesota,United States,156
+Universidad de Chile,BBA-BSCS-Electrical,Santiago,Chile,189
+Stockholm University,BBA-BSCS,Stockholm,Sweden,191
+University of Liverpool,BBA-BSCS-Electrical,Liverpool,United Kingdom,181
+Universitat de Barcelona (UB),BSCS-BSACF-BBA-BSSS,Barcelona,Spain,165
+University of Otago,LAW-BSECO-BSCS-BSAI,Otago,New Zealand,176
+Indian Institute of Science (IISc) Bangalore,BSCS-BSACF-BBA-BSSS,Bangalore,India,184
+King Fahd University of Petroleum & Minerals (KFUPM),LAW-BSECO-BSCS-BSAI,Dhahran,Saudi Arabia,200
+Universiti Teknologi Malaysia (UTM),BBA-BSCS,JohorBahru,Malaysia,217
+Vanderbilt University,BSCS-BEMECHANICAL-ELECTRICAL,Nashville,United States,200
+Universit� Catholique de Louvain (UCL),BSCS-BSACF-BBA-ECO,Ottignies-Louvain-la-Neuve,Belgium,167
+Waseda University,MBBS-BDS,Tokyo,Japan,202
+Keio University,MBBS-BDS,Tokyo,Japan,200
+Technische Universit�t Wien,MBBS-BDS,Vienna,Austria,192
+Indian Institute of Technology Delhi (IITD),BBA-BSCS-ACF,Delhi,India,182
+University of Bergen,BBA-BSCS-ACF,Bergen,Norway,163
+Georg-August-Universit�t G�ttingen,BBA-Electrical- Mechanical,Gottingen,Germany,197
+University of Wollongong,BBA-BSCS-Electrical,Wollongong,Australia,212
+Erasmus University Rotterdam,BBA-BSCS,Rotterdam,Netherlands,183
+University of Newcastle,BBA-BSCS-Electrical,Newcastle,Australia,207
+University of Twente,BSCS-BSACF-BBA-BSSS,Twente,Netherlands,186
+Universidad Aut�noma de Madrid,LAW-BSECO-BSCS-BSAI,Madrid,Spain,192
+Vrije Universiteit Brussel (VUB),BSCS-BSACF-BBA-BSSS,Brussel,Belgium,195
+University of Gothenburg,LAW-BSECO-BSCS-BSAI,Gothenburg,Sweden,256
+Dartmouth College,BBA-BSCS,Dartmouth,United States,207
+Western University,BSCS-BEMECHANICAL-ELECTRICAL,Ontario,Canada,211
+University of Reading,BSCS-BSACF-BBA-ECO,Reading,United Kingdom,205
+Universidad Complutense de Madrid (UCM),MBBS-BDS,Madrid,Spain,212
+University of Aberdeen,MBBS-BDS,Aberdeen,United Kingdom,194
+Chulalongkorn University,MBBS-BDS,Bangkok,Thailand,247
+Queen's University of Belfast,BBA-BSCS-ACF,Belfast,United Kingdom,173
+University of California Irvine (UCI),BBA-BSCS-ACF,California,United States,219
+Khalifa University,BBA-Electrical- Mechanical,Abu Dhabi,United Arab Emirates,268
+University of Notre Dame,BBA-BSCS-Electrical,Notre Dame,United States,210
+Universitat Aut�noma de Barcelona,BBA-BSCS,Barcelona,Spain,188
+Macquarie University,BBA-BSCS-Electrical,Sydney,Australia,237
+Radboud University Nijmegen,BSCS-BSACF-BBA-BSSS,Gelderland,Netherlands,217
+Universit� degli Studi di Padova (UNIPD),LAW-BSECO-BSCS-BSAI,Padua,Italy,234
+Curtin University,BSCS-BSACF-BBA-BSSS,Perth,Australia,230
+Queensland University of Technology (QUT),LAW-BSECO-BSCS-BSAI,Queensland,Australia,224
+University of Virginia,BBA-BSCS,Virginia,United States,198
+American University of Beirut (AUB),BSCS-BEMECHANICAL-ELECTRICAL,Beirut,Lebanon,244
+Arizona State University,BSCS-BSACF-BBA-ECO,Arizona,United States,215
+University of Cape Town,MBBS-BDS,Cape Town,South Africa,198
+RMIT University,MBBS-BDS,Melbourne,Australia,238
+Victoria University of Wellington,MBBS-BDS,Wellington,New Zealand,215
+Saint-Petersburg State University,BBA-BSCS-ACF,Saint Petersburg,Russia,234
+Loughborough University,BBA-BSCS-ACF,Leicestershire,United Kingdom,222
+Universidad de Los Andes Colombia,BBA-Electrical- Mechanical,Bogota,Colombia,234
+Novosibirsk State University,BBA-BSCS-Electrical,Novosibirsk,Russia,231
+Universit�t Hamburg,BBA-BSCS,Hamburg,Germany,227
+Georgetown University,BBA-BSCS-Electrical,Washington,United States,226
+Tel Aviv University,BSCS-BSACF-BBA-BSSS,Tel Aviv,Israel,219
+University of Colorado at Boulder,LAW-BSECO-BSCS-BSAI,Colorado,United States,206
+Universidade Estadual de Campinas (Unicamp),BSCS-BSACF-BBA-BSSS,Sau Paolo,Brazil,214
+Maastricht University,LAW-BSECO-BSCS-BSAI,Maastricht,Netherlands,239
+National Cheng Kung University,BBA-BSCS,Tainan,Taiwan,225
+Kyung Hee University,BSCS-BEMECHANICAL-ELECTRICAL,Seoul,South Korea,247
+Vrije Universiteit Amsterdam,BSCS-BSACF-BBA-ECO,Amsterdam,Netherlands,219
+National University of Ireland Galway (NUIG),MBBS-BDS,Galway,Ireland,259
+University of Antwerp,MBBS-BDS,Antwerp,Belgium,223
+National Chiao Tung University,MBBS-BDS,Hsinchu,Taiwan,227
+Rheinische Friedrich-Wilhelms-Universit�t Bonn,BBA-BSCS-ACF,North Rhine-Westphalia,Germany,243
+Ecole des Ponts ParisTech,BBA-BSCS-ACF,Paris,France,250
+Sciences Po Paris,BBA-Electrical- Mechanical,Paris,France,242
+University of Leicester,BBA-BSCS-Electrical,Leicestershire,United Kingdom,239
+Qatar University,BBA-BSCS,Doha,Qatar,276
+Queen's University,BBA-BSCS-Electrical,Ontario,Canada,239
+University of Calgary,BSCS-BSACF-BBA-BSSS,Calgary,Canada,233
+University of Sussex,LAW-BSECO-BSCS-BSAI,Sussex,United Kingdom,246
+Wuhan University,BSCS-BSACF-BBA-BSSS,Wuhan,China,257
+Tomsk State University,LAW-BSECO-BSCS-BSAI,Tomsk,Russia,268
+Universit� Libre de Bruxelles (ULB),BBA-BSCS,Brussels,Belgium,251
+Mahidol University,BSCS-BEMECHANICAL-ELECTRICAL,Bangkok,Thailand,314
+Universidad de Navarra,BSCS-BSACF-BBA-ECO,Pamplona,Spain,245
+Universitas Gadjah Mada,MBBS-BDS,Yogyakarta,Indonesia,320
+Universiti Brunei Darussalam (UBD),MBBS-BDS,Bandar Seri Bagawan,Brunei,298
+Tongji University,MBBS-BDS,Shanghai,China,265
+University of Illinois Chicago (UIC),BBA-Electrical- Mechanical,Chicago,United States,231
+Rutgers - The State University of New Jersey New Brunswick,BBA-BSCS-Electrical,New Jersey,United States,262
+Universidad Nacional de Colombia,BBA-BSCS,Bogota,Colombia,253
+Charles University,BBA-BSCS-Electrical,Prague,Czech Republic,291
+Harbin Institute of Technology,BSCS-BSACF-BBA-BSSS,Harbin,China,277
+Tufts University,LAW-BSECO-BSCS-BSAI,Medford,United States,253
+Sun Yat-sen University,BSCS-BSACF-BBA-BSSS,Guangzhou,China,287
+Hong Kong Baptist University (HKBU),LAW-BSECO-BSCS-BSAI,Kowloon Tsai,Hong Kong,261
+Universit�t Innsbruck,BBA-BSCS,Austria,Austria,266
+University of Tsukuba,BSCS-BEMECHANICAL-ELECTRICAL,Ibaraki,Japan,270
+National Taiwan University of Science and Technology,BSCS-BSACF-BBA-ECO,Taipei,Taiwan,251
+Technische Universit�t Darmstadt,MBBS-BDS,Hessen,Germany,260
+University of Surrey,MBBS-BDS,Guildford,United Kingdom,274
+University of Canterbury,MBBS-BDS,Canterbury,New Zealand,227
+University of Massachusetts Amherst,BBA-BSCS-ACF,Massachusetts,United States,305
+Massey University,BBA-BSCS-ACF,Auckland,New Zealand,287
+Universit� della Svizzera italiana,BBA-Electrical- Mechanical,Bellinzona,Switzerland,209
+University of Arizona,BBA-BSCS-Electrical,Arizona,United States,262
+Deakin University,BBA-BSCS,Melbourne,Australia,271
+Indian Institute of Technology Madras (IITM),BBA-BSCS-Electrical,Madras,India,271
+Technische Universit�t Graz,BSCS-BSACF-BBA-BSSS,Styria,Austria,311
+Universit� de Paris,LAW-BSECO-BSCS-BSAI,Paris,France,253
+Beijing Normal University,BSCS-BSACF-BBA-BSSS,Beijing,China,277
+University of Ottawa,LAW-BSECO-BSCS-BSAI,Ottawa,Canada,281
+Moscow Institute of Physics and Technology State University,BBA-BSCS,Moscow,Russia,302
+Bauman Moscow State Technical University,BSCS-BEMECHANICAL-ELECTRICAL,Moscow,Russia,284
+Universit�t K�ln,BSCS-BSACF-BBA-ECO,Cologne,Germany,308
+United Arab Emirates University,MBBS-BDS,Al Ain,United Arab Emirates,329
+University of Tartu,MBBS-BDS,Estonia,Estonia,301
+University College Cork (UCC),MBBS-BDS,Cork,Ireland,310
+King Saud University (KSU),BBA-BSCS-ACF,Riyadh,Saudi Arabia,281
+Universitat Pompeu Fabra,BBA-BSCS-ACF,Barcelona,Spain,285
+Universit� Paris 1 Panth�on-Sorbonne,BBA-Electrical- Mechanical,Paris,France,305
+University of Turku,BBA-BSCS-Electrical,Turku,Finland,287
+Dalhousie University,BBA-BSCS,Nova Scotia,Canada,280
+ENS Paris-Saclay,BBA-BSCS-Electrical,Paris,France,312
+Technion - Israel Institute of Technology,BSCS-BSACF-BBA-BSSS,Haifa,Israel,257
+University of Miami,LAW-BSECO-BSCS-BSAI,Miami,United States,271
+Gwangju Institute of Science and Technology (GIST),BSCS-BSACF-BBA-BSSS,Gwangju,South Korea,322
+North Carolina State University,LAW-BSECO-BSCS-BSAI,North Carolina,United States,285
+University of South Australia (UniSA),BBA-BSCS,Adelaide,Australia,274
+National Research University - Higher School of Economics (HSE),BSCS-BEMECHANICAL-ELECTRICAL,Moscow,Russia,322
+National Yang Ming University,BSCS-BSACF-BBA-ECO,Taipei,Taiwan,287
+University of Strathclyde,MBBS-BDS,Glasgow,United Kingdom,296
+Heriot-Watt University,MBBS-BDS,Edinburgh,United Kingdom,314
+Universit� degli Studi di Milano,MBBS-BDS,Citta Studi,Italy,302
+Griffith University,BBA-BSCS-ACF,Queensland,Australia,320
+Xi'an Jiaotong University,BBA-BSCS-ACF,Shaanxi,China,307
+Aalborg University,BBA-Electrical- Mechanical,Aalborg,Denmark,324
+Paris-Saclay University,BBA-BSCS-Electrical,Paris,France,262
+University of Indonesia,BBA-BSCS,Jakarta,Indonesia,296
+Universit�t Mannheim,BBA-BSCS-Electrical,Baden-W�rttemberg,Germany,314
+Politecnico di Torino,BSCS-BSACF-BBA-BSSS,Turin,Italy,348
+Royal Holloway University of London,LAW-BSECO-BSCS-BSAI,Surrey,United Kingdom,291
+University of Tasmania,BSCS-BSACF-BBA-BSSS,Hobart,Australia,291
+Universidad Carlos III de Madrid,LAW-BSECO-BSCS-BSAI,Madrid,Spain,298
+Universit�t Frankfurt am Main,BBA-BSCS,Frankfurt,Germany,291
+Bandung Institute of Technology (ITB),BSCS-BEMECHANICAL-ELECTRICAL,Bandung,Indonesia,331
+Indian Institute of Technology Kharagpur (IITKGP),BSCS-BSACF-BBA-ECO,Kharagpur,India,281
+"National Research Nuclear University ""MEPhI"" (Moscow Engineering Physics Institute)",MBBS-BDS,Moscow,Russia,329
+Universitat Polit�cnica de Catalunya,MBBS-BDS,Barcelona,Spain,300
+Belarus State University,MBBS-BDS,Minsk,Belarus,351
+Universit�t Erlangen-N�rnberg,BBA-BSCS-ACF,Nuremberg,Germany,319
+University of Dundee,BBA-BSCS-ACF,Dundee,United Kingdom,302
+Indiana University Bloomington,BBA-Electrical- Mechanical,Indiana,United States,312
+Hiroshima University,BBA-BSCS-Electrical,Hiroshima,Japan,334
+University of Warsaw,BBA-BSCS,Warsaw,Poland,349
+Simon Fraser University,BBA-BSCS-Electrical,Vancouver,Canada,314
+Southern University of Science and Technology,BSCS-BSACF-BBA-BSSS,Shenzhen,China,345
+Universit�t Jena,LAW-BSECO-BSCS-BSAI,Thuringia,Germany,340
+Jagiellonian University,BSCS-BSACF-BBA-BSSS,Krakow,Poland,338
+Pontificia Universidad Cat�lica Argentina Santa Mar�a de los Buenos Aires (UCA),LAW-BSECO-BSCS-BSAI,Buenos Aires,Argentina,344
+RUDN University,BBA-BSCS,Moscow,Russia,392
+Universidad Politecnica de Valencia,BSCS-BEMECHANICAL-ELECTRICAL,Valencia,Spain,336
+Virginia Polytechnic Institute (Virginia Tech),BSCS-BSACF-BBA-ECO,Virginia,United States,327
+IE University,MBBS-BDS,Madrid,Spain,335
+National Taiwan Normal University,MBBS-BDS,Taipei,Taiwan,331
+Ural Federal University,MBBS-BDS,Ekaterinburg,Russia,364
+Ewha Womans University,BBA-BSCS-ACF,Seoul,South Korea,331
+Ume� University,BBA-BSCS-ACF,Umea,Sweden,340
+Universit�t Stuttgart,BBA-Electrical- Mechanical,Stuttgart,Germany,279
+University of East Anglia (UEA),BBA-BSCS-Electrical,Norwich,United Kingdom,314
+University of Hawaii at M?�noa,BBA-BSCS,Honolulu,United States,326
+University of Jyv�skyl�,BBA-BSCS-Electrical,Jyv�skyl�,Finland,346
+University of Utah,BSCS-BSACF-BBA-BSSS,Utah,United States,353
+Yeshiva University,LAW-BSECO-BSCS-BSAI,New York,United States,359
+Universit� Grenoble-Alpes (UGA),BSCS-BSACF-BBA-BSSS,Grenoble,France,351
+University of Chemistry and Technology Prague,LAW-BSECO-BSCS-BSAI,Prague,Czech Republic,355
+Birkbeck College University of London,BBA-BSCS,London,United Kingdom,328
+Universit�t Ulm,BSCS-BEMECHANICAL-ELECTRICAL,Baden-W�rttemberg,Germany,340
+SOAS - School of Oriental and African Studies University of London,BSCS-BSACF-BBA-ECO,Bloomsbury,United Kingdom,309
+University at Buffalo SUNY,MBBS-BDS,Amherst,United States,340
+American University of Sharjah,MBBS-BDS,Sharjah,United Arab Emirates,371
+Moscow State Institute of International Relations � MGIMO University,MBBS-BDS,Moscow,Russia,366
+City University of London,BBA-BSCS-ACF,London,United Kingdom,349
+Indian Institute of Technology Kanpur (IITK),BBA-BSCS-ACF,Kanpur,India,291
+Universiti Teknologi Brunei,BBA-Electrical- Mechanical,Bandar Seri Bagawan,Brunei,379
+George Washington University,BBA-BSCS-Electrical,Washington,United States,336
+University of Southern Denmark,BBA-BSCS,Copenhagen,Denmark,372
+National University of Sciences and Technology (NUST) Islamabad,BBA-BSCS-Electrical,Islamabad,Pakistan,400
+Westf�lische Wilhelms-Universit�t M�nster,BSCS-BSACF-BBA-BSSS,North Rhine-Westphalia,Germany,347
+L.N. Gumilyov Eurasian National University,LAW-BSECO-BSCS-BSAI,Astana,Kazakhstan,418
+University of Lisbon,BSCS-BSACF-BBA-BSSS,Lisbon,Portugal,338
+University of Porto,LAW-BSECO-BSCS-BSAI,Porto,Portugal,353
+ITMO University,BBA-BSCS,Saint Petersburg,Russia,436
+Norwegian University of Science and Technology,BSCS-BEMECHANICAL-ELECTRICAL,Gj�vik,Norway,359
+Johannes Kepler Universit�t Linz (JKU),BSCS-BSACF-BBA-ECO,Linz,Austria,412
+Link�ping University,MBBS-BDS,Stockholm,Sweden,324
+Northeastern University,MBBS-BDS,Massachusetts,United States,344
+Tokyo Medical and Dental University,MBBS-BDS,Tokyo,Japan,359
+University of Macau,BBA-BSCS-ACF,Macau,Macao,387
+Brunel University,BBA-BSCS-ACF,London,United Kingdom,359
+Tilburg University,BBA-Electrical- Mechanical,Tilburg,Netherlands,371
+Kazan Federal University,BBA-BSCS-Electrical,Tatarstan,Russia,392
+University of Victoria,BBA-BSCS,British Colombia,Canada,364
+Swinburne University of Technology,BBA-BSCS-Electrical,Melbourne,Australia,383
+Pakistan Institute of Engineering and Applied Sciences (PIEAS),BSCS-BSACF-BBA-BSSS,Islamabad,Pakistan,375
+Stony Brook University,LAW-BSECO-BSCS-BSAI,New York,United States,359
+Sultan Qaboos University,BSCS-BSACF-BBA-BSSS,Muscat,Oman,379
+University of Waikato,LAW-BSECO-BSCS-BSAI,Hamilton,New Zealand,266
+Nankai University,BBA-BSCS,Tianjin,China,368
+Universidad de Palermo,BSCS-BEMECHANICAL-ELECTRICAL,Buenos Aires,Argentina,383
+Taylor's University,BSCS-BSACF-BBA-ECO,Selangor,Malaysia,511
+Universidade Federal do Rio de Janeiro,MBBS-BDS,Rio,Brazil,358
+University of Kent,MBBS-BDS,Kent,United Kingdom,368
+Wake Forest University,MBBS-BDS,Salem,United States,398
+Indian Institute of Technology Roorkee (IITR),BBA-BSCS-ACF,Uttarakhand,India,383
+Oxford Brookes University,BBA-BSCS-ACF,Oxford,United Kingdom,376
+Universit� di Pisa,BBA-Electrical- Mechanical,Pisa,Italy,389
+University of Kansas,BBA-BSCS-Electrical,Kansas,United States,372
+Lincoln University,BBA-BSCS,Pennsylvania,New Zealand,356
+Shanghai University,BBA-BSCS-Electrical,Shanghai,China,412
+Taipei Medical University,BSCS-BSACF-BBA-BSSS,Taipei,Taiwan,379
+Tianjin University,LAW-BSECO-BSCS-BSAI,Tianjin,China,429
+UCSI University,BSCS-BSACF-BBA-BSSS,Kuala Lumpur,Malaysia,442
+Beijing Institute of Technology,LAW-BSECO-BSCS-BSAI,Beijing,China,436
+HUFS � Hankuk (Korea) University of Foreign Studies,BBA-BSCS,Hankuk,South Korea,407
+Universit� degli Studi di Napoli Federico II,BSCS-BEMECHANICAL-ELECTRICAL,Naples,Italy,424
+Universit� Vita-Salute San Raffaele,BSCS-BSACF-BBA-ECO,Milan,Italy,465
+Huazhong University of Science and Technology,MBBS-BDS,Wuhan,China,400
+University of the Philippines,MBBS-BDS,Quezon,Philippines,356
+La Trobe University,MBBS-BDS,Melbourne,Australia,400
+Universit� de Strasbourg,BBA-Electrical- Mechanical,Alsace,France,379
+University of Colorado at Denver,BBA-BSCS-Electrical,Denver,United States,392
+Peter the Great St.Petersburg Polytechnic University,BBA-BSCS,Saint Petersburg,Russia,439
+Tomsk Polytechnic University,BBA-BSCS-Electrical,Tomsk,Russia,387
